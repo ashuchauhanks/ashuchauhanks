@@ -129,8 +129,7 @@ I work across **Cloud, Infrastructure Automation, CI/CD, Kubernetes, Networking,
 * CI/CD Automation
 * Infrastructure Provisioning
 * Configuration Automation
-* Python — Learning & Automation
-* PowerShell
+* Python — Learning
 * Git-based Workflows
 
 </td>
