@@ -494,20 +494,22 @@ Secure & Scalable Infrastructure
 
 <div align="center">
 
-| Area          | Technologies                                                                          |
-| ------------- | ------------------------------------------------------------------------------------- |
-| ☁️ Cloud      | Azure • AWS                                                                           |
-| 🏗️ IaC        | Terraform • Ansible                                                                   |
-| ⚙️ CI/CD      | Azure DevOps • YAML Pipelines                                                         |
-| 📦 Containers | Docker                                                                                |
-| ☸️ Kubernetes | Kubernetes • AKS                                                                      |
-| 📦 Registry   | Azure Container Registry • Docker Hub                                                 |
-| 🔄 GitOps     | Argo CD                                                                               |
-| 🔐 DevSecOps  | Checkov • tfsec • TFLint • SonarQube • SAST • DAST • SCA                              |
-| 🌐 Networking - Load Balancing | VNet • VPC • DNS • Private Endpoint • Service Endpoint • VPN • NSG • NACL • Security Group • Load Balancer • Application Gateway • Azure Front Door • Traffic Manager |
-| 🔑 IAM        | Entra ID • Azure RBAC • AWS IAM                                                       |
-| 🤖 Automation | Terraform • Ansible •                                                                 |
-| 🐧 OS         | Linux                                                                                 |
+| Area                           | Technologies                                                                                                                                                         |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ☁️ Cloud                       | Azure • AWS                                                                                                                                                          |
+| 🏗️ IaC                        | Terraform • Ansible                                                                                                                                                  |
+| ⚙️ CI/CD                       | Azure DevOps • YAML Pipelines • GitHub Actions                                                                                                                       |
+| 📦 Containers                  | Docker                                                                                                                                                               |
+| ☸️ Kubernetes                  | Kubernetes • AKS • Helm                                                                                                                                              |
+| 📦 Container Registry          | Azure Container Registry (ACR) • Docker Hub                                                                                                                          |
+| 🔄 GitOps & CD                 | GitOps • Argo CD                                                                                                                                                     |
+| 🔐 DevSecOps                   | Checkov • tfsec • TFLint • SonarQube • SAST • DAST • SCA • OWASP                                                                                                    |
+| 🌐 Networking & Load Balancing | VNet • VPC • DNS • Private Endpoint • Service Endpoint • VPN • NSG • NACL • Security Group • Load Balancer • Application Gateway • Azure Front Door • Traffic Manager |
+| 🔑 IAM                         | Microsoft Entra ID • Azure RBAC • AWS IAM                                                                                                                            |
+| 🤖 Automation                  | Terraform • Ansible                                                                                                                                                  |
+| 💰 Infrastructure Cost         | Infracost                                                                                                                                                            |
+| 📊 Monitoring & Observability  | Prometheus • Grafana                                                                                                                                                 |
+| 🐧 OS                          | Linux                                                                                                                                                                |
 
 </div>
 
