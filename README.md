@@ -531,14 +531,11 @@ I'm always open to learning, collaborating and discussing real-world Cloud & Dev
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashutoshsinghpbh)
-- www.linkedin.com/in/ashutoshsinghpbh
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashutoshsinghpbh) www.linkedin.com/in/ashutoshsinghpbh
 
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ashuchauhanks)
-- https://github.com/ashuchauhanks
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ashuchauhanks) https://github.com/ashuchauhanks
 
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ashuchauhanks@gmail.com)
-- ashuchauhanks@gmail.com
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ashuchauhanks@gmail.com) ashuchauhanks@gmail.com
   
 </div>
 
