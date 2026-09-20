@@ -26,7 +26,7 @@
 
 ## 💎 About Me
 
-I'm a **DevOps Engineer with 7+ years of overall professional experience, including 4+ years of relevant experience in Cloud & DevOps engineering**, with hands-on experience in **cloud infrastructure, Infrastructure as Code, CI/CD automation, containerization, Kubernetes and DevSecOps**.
+I'm a **DevOps Engineer with 7+ years of overall IT experience, including 4+ years of relevant experience in Cloud & DevOps engineering**, with hands-on experience in **cloud infrastructure, Infrastructure as Code, CI/CD automation, containerization, Kubernetes and DevSecOps**.
 
 I work across **Cloud, Infrastructure Automation, CI/CD, Kubernetes, Networking, Security and DevSecOps**, with a focus on building reliable, secure and scalable infrastructure and deployment workflows.
 
