@@ -497,16 +497,16 @@ Secure & Scalable Infrastructure
 | Area          | Technologies                                                                          |
 | ------------- | ------------------------------------------------------------------------------------- |
 | ☁️ Cloud      | Azure • AWS                                                                           |
-| 🏗️ IaC       | Terraform • Ansible                                                                   |
+| 🏗️ IaC        | Terraform • Ansible                                                                   |
 | ⚙️ CI/CD      | Azure DevOps • YAML Pipelines                                                         |
 | 📦 Containers | Docker                                                                                |
 | ☸️ Kubernetes | Kubernetes • AKS                                                                      |
-| 📦 Registry   | Azure Container Registry                                                              |
+| 📦 Registry   | Azure Container Registry • Docker Hub                                                 |
 | 🔄 GitOps     | Argo CD                                                                               |
 | 🔐 DevSecOps  | Checkov • tfsec • TFLint • SonarQube • SAST • DAST • SCA                              |
-| 🌐 Networking | VNet • VPC • DNS • Private Endpoint • VPN • NSG • Load Balancer • Application Gateway |
+| 🌐 Networking - Load Balancing | VNet • VPC • DNS • Private Endpoint • Service Endpoint • VPN • NSG • NACL • Security Group • Load Balancer • Application Gateway • Azure Front Door • Traffic Manager |
 | 🔑 IAM        | Entra ID • Azure RBAC • AWS IAM                                                       |
-| 🤖 Automation | Terraform • Ansible • Python • PowerShell                                             |
+| 🤖 Automation | Terraform • Ansible •                                                                 |
 | 🐧 OS         | Linux                                                                                 |
 
 </div>
