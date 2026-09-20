@@ -517,7 +517,7 @@ Secure & Scalable Infrastructure
 
 ### 🔵 LinkedIn
 
-[LinkedIn](https://www.linkedin.com/in/ashutoshsinghpbh)
+
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashutoshsinghpbh)
 
